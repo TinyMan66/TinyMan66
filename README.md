@@ -1,4 +1,14 @@
-### Hi there 👋
+<div align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHY4dndxd2NocDYwMGI1MGl4bzM2aGhuYjY4MHlpOXlybmJvYW1mMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif" width="350"/> 
+</div>
+
+<div>
+  <h3>Hi there! 👋</h3>
+  <p> My name is Diana. I'm a Front-end Developer. </p>
+</div>
+
+
+
 
 <!--
 **TinyMan66/TinyMan66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
