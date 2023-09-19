@@ -8,7 +8,8 @@
 </div>
 
 ---
-### :envelope: Connect with me :
+### Connect with me :
+
 <div id="badges">
   <a href="https://www.facebook.com/profile.php?id=100013503166823">
     <img src="https://img.shields.io/badge/Facebook-yellow?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
@@ -22,7 +23,8 @@
 </div>
 
 ---
-### :hammer_and_wrench: Languages and Tools :
+### Languages and Tools :
+
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="Typescript" width="40" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -41,9 +43,16 @@
 </div>
 
 ---
-### :fire: My Stats :
+### Codewars:
+
+![codewars](https://www.codewars.com/users/TinyMan66/badges/large)
+
+---
+### My Stats :
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TinyMan66&theme=sea)](https://git.io/streak-stats)
 
-<div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tinyman66&show_icons=true&locale=en&layout=compact" alt="tinyman66" />
-</div>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tinyman66&show_icons=true&locale=en&layout=compact" alt="tinyman66" />
+
+
+
