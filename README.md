@@ -13,7 +13,7 @@
   <a href="https://www.facebook.com/profile.php?id=100013503166823">
     <img src="https://img.shields.io/badge/Facebook-yellow?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
-  <a href="www.linkedin.com/in/diana-lipanova-b18395256">
+  <a href="https://www.linkedin.com/in/diana-lipanova-b18395256/?locale=en_US">
     <img src="https://img.shields.io/badge/LinkedIn-yellow?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://t.me/TinyMan6">
